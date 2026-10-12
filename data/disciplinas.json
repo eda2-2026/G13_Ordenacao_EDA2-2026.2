@@ -1,0 +1,2211 @@
+[
+  {
+    "codigo": "FGA0038",
+    "nome": "Aerodinâmica de Sistemas Aeroespaciais",
+    "professores": [
+      "Olexiy Shynkarenko"
+    ],
+    "professor": "Olexiy Shynkarenko",
+    "numero_turmas": 1,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0073",
+    "nome": "Teoria de Eletrônica Digital 1",
+    "professores": [
+      "Renato Vilela Lopes"
+    ],
+    "professor": "Renato Vilela Lopes",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "Laboratório de Eletricidade Aplicada",
+    "professores": [
+      "Jorge Andres Cormane Angarita",
+      "Rudi Henri Van Els",
+      "Loana Nunes Velasco"
+    ],
+    "professor": "Jorge Andres Cormane Angarita; Rudi Henri Van Els; Loana Nunes Velasco",
+    "numero_turmas": 5,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0003",
+    "nome": "Compiladores 1",
+    "professores": [
+      "Sergio Antonio Andrade de Freitas"
+    ],
+    "professor": "Sergio Antonio Andrade de Freitas",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0148",
+    "nome": "Engenharia de Segurança do Trabalho",
+    "professores": [
+      "Maria Alzira de Araujo Nunes"
+    ],
+    "professor": "Maria Alzira de Araujo Nunes",
+    "numero_turmas": 2,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0107",
+    "nome": "Laboratório de Ondulatória e Física Térmica para a Engenharia",
+    "professores": [
+      "Eberth de Almeida Correa"
+    ],
+    "professor": "Eberth de Almeida Correa",
+    "numero_turmas": 1,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0142",
+    "nome": "Fundamentos de Arquitetura de Computadores",
+    "professores": [
+      "Tiago Alves da Fonseca",
+      "Daniel Valle de Lima"
+    ],
+    "professor": "Tiago Alves da Fonseca; Daniel Valle de Lima",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0158",
+    "nome": "Orientação a Objetos",
+    "professores": [
+      "Andre Luiz Peron Martins Lanna",
+      "Henrique Gomes de Moura"
+    ],
+    "professor": "Andre Luiz Peron Martins Lanna; Henrique Gomes de Moura",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "Desenho Industrial Assistido Por Computador",
+    "professores": [
+      "Eneida Gonzalez Valdes",
+      "Andre Luis Rodrigues Araujo",
+      "Himilsys Hernandez Gonzalez",
+      "Alessandro Borges de Sousa Oliveira",
+      "Mateus Rodrigues Miranda"
+    ],
+    "professor": "Eneida Gonzalez Valdes; Andre Luis Rodrigues Araujo; Himilsys Hernandez Gonzalez; Alessandro Borges de Sousa Oliveira; Mateus Rodrigues Miranda",
+    "numero_turmas": 5,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0105",
+    "nome": "Tópicos Especiais 2 em Engenharia Aeroespacial",
+    "professores": [
+      "Gabriel Silva Dias",
+      "Fernando Merege",
+      "Andre Luis Rodrigues Araujo"
+    ],
+    "professor": "Gabriel Silva Dias; Fernando Merege; Andre Luis Rodrigues Araujo",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0169",
+    "nome": "Fontes de Energia e Tecnologias de Conversão",
+    "professores": [
+      "Augusto Cesar de Mendonca Brasil"
+    ],
+    "professor": "Augusto Cesar de Mendonca Brasil",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0101",
+    "nome": "Teoria de Física dos Dispositivos Eletrônicos",
+    "professores": [
+      "Marcus Vinicius Batistuta"
+    ],
+    "professor": "Marcus Vinicius Batistuta",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0300",
+    "nome": "Telecomunicações Espaciais",
+    "professores": [
+      "Sebastien Roland Marie Joseph Rondineau"
+    ],
+    "professor": "Sebastien Roland Marie Joseph Rondineau",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0092",
+    "nome": "Princípios de Comunicação para Engenharia",
+    "professores": [
+      "Daniel Costa Araujo"
+    ],
+    "professor": "Daniel Costa Araujo",
+    "numero_turmas": 1,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0091",
+    "nome": "Máquinas de Fluido",
+    "professores": [
+      "Jhon Nero Vaz Goulart"
+    ],
+    "professor": "Jhon Nero Vaz Goulart",
+    "numero_turmas": 1,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0221",
+    "nome": "Inteligência Artificial",
+    "professores": [
+      "Fabiano Araujo Soares"
+    ],
+    "professor": "Fabiano Araujo Soares",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0030",
+    "nome": "Estruturas de Dados 2",
+    "professores": [
+      "Glauco Vitor Pedrosa",
+      "John Lenon Cardoso Gardenghi",
+      "Mauricio Serrano"
+    ],
+    "professor": "Glauco Vitor Pedrosa; John Lenon Cardoso Gardenghi; Mauricio Serrano",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0057",
+    "nome": "Eletrônica de Potência",
+    "professores": [
+      "Marcus Vinicius Batistuta"
+    ],
+    "professor": "Marcus Vinicius Batistuta",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0266",
+    "nome": "Acústica e Vibrações Veiculares",
+    "professores": [
+      "Maria Alzira de Araujo Nunes"
+    ],
+    "professor": "Maria Alzira de Araujo Nunes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0280",
+    "nome": "Projeto de Circuitos Eletrônicos Integrados 2",
+    "professores": [
+      "Sandro Augusto Pavlik Haddad"
+    ],
+    "professor": "Sandro Augusto Pavlik Haddad",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0211",
+    "nome": "Fundamentos de Redes de Computadores",
+    "professores": [
+      "Tiago Alves da Fonseca"
+    ],
+    "professor": "Tiago Alves da Fonseca",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0008",
+    "nome": "Sistemas Aeroespaciais",
+    "professores": [
+      "Ronne Toledo"
+    ],
+    "professor": "Ronne Toledo",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0201",
+    "nome": "Projeto de Circuitos Integrados Digitais",
+    "professores": [
+      "Gilmar Silva Beserra"
+    ],
+    "professor": "Gilmar Silva Beserra",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0088",
+    "nome": "Teoria de Sistemas de Conversão de Energia",
+    "professores": [
+      "Flavio Henrique Justiniano Ribeiro da Silva"
+    ],
+    "professor": "Flavio Henrique Justiniano Ribeiro da Silva",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0017",
+    "nome": "Projetos de Circuitos Integrados 1",
+    "professores": [
+      "Wellington Avelino do Amaral"
+    ],
+    "professor": "Wellington Avelino do Amaral",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0050",
+    "nome": "Dinâmica de Estruturas Aeroespaciais",
+    "professores": [
+      "Sergio Henrique da Silva Carneiro"
+    ],
+    "professor": "Sergio Henrique da Silva Carneiro",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0204",
+    "nome": "Dinâmica dos Fluídos",
+    "professores": [
+      "Rafael Castilho Faria Mendes",
+      "Luciano Goncalves Noleto"
+    ],
+    "professor": "Rafael Castilho Faria Mendes; Luciano Goncalves Noleto",
+    "numero_turmas": 2,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0133",
+    "nome": "Engenharia Econômica",
+    "professores": [
+      "Paula Meyer Soares",
+      "Glauceny Cirne de Medeiros"
+    ],
+    "professor": "Paula Meyer Soares; Glauceny Cirne de Medeiros",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0060",
+    "nome": "Sistemas de Banco de Dados 2",
+    "professores": [
+      "Vandor Roberto Vilardi Rissoli",
+      "Carla Silva Rocha Aguiar"
+    ],
+    "professor": "Vandor Roberto Vilardi Rissoli; Carla Silva Rocha Aguiar",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0137",
+    "nome": "Sistemas de Banco de Dados 1",
+    "professores": [
+      "Glauco Vitor Pedrosa"
+    ],
+    "professor": "Glauco Vitor Pedrosa",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0077",
+    "nome": "Introdução ao Desgaste",
+    "professores": [
+      "Edison Gustavo Cueva Galarraga"
+    ],
+    "professor": "Edison Gustavo Cueva Galarraga",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0106",
+    "nome": "Tópicos Especiais 3 em Engenharia Aeroespacial",
+    "professores": [
+      "Artur Elias de Morais Bertoldi"
+    ],
+    "professor": "Artur Elias de Morais Bertoldi",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0210",
+    "nome": "Paradigmas de Programação",
+    "professores": [
+      "Edson Alves da Costa Junior",
+      "Fabio Macedo Mendes"
+    ],
+    "professor": "Edson Alves da Costa Junior; Fabio Macedo Mendes",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0154",
+    "nome": "Mecanica dos Sólidos 1 para Engenharia",
+    "professores": [
+      "Suzana Moreira Avila",
+      "Sergio Henrique da Silva Carneiro"
+    ],
+    "professor": "Suzana Moreira Avila; Sergio Henrique da Silva Carneiro",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0156",
+    "nome": "Combustíveis e Biocombustíveis",
+    "professores": [
+      "Roseany de Vasconcelos Vieira Lopes"
+    ],
+    "professor": "Roseany de Vasconcelos Vieira Lopes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0069",
+    "nome": "Prática de Circuitos Eletrônicos 1",
+    "professores": [
+      "Claudia Patricia Ochoa Diaz",
+      "Marcus Vinicius Chaffim Costa"
+    ],
+    "professor": "Claudia Patricia Ochoa Diaz; Marcus Vinicius Chaffim Costa",
+    "numero_turmas": 3,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0265",
+    "nome": "Economia de Energia",
+    "professores": [
+      "Paula Meyer Soares"
+    ],
+    "professor": "Paula Meyer Soares",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0285",
+    "nome": "Introdução à Mecânica da Fratura",
+    "professores": [
+      "Carla Tatiana Mota Anflor"
+    ],
+    "professor": "Carla Tatiana Mota Anflor",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "Prática de Eletrônica Digital 1",
+    "professores": [
+      "Claudia Patricia Ochoa Diaz",
+      "Henrique Marra Taira Menegaz",
+      "Marcelino Monteiro de Andrade",
+      "Thiago Luiz de Souza Gomes"
+    ],
+    "professor": "Claudia Patricia Ochoa Diaz; Henrique Marra Taira Menegaz; Marcelino Monteiro de Andrade; Thiago Luiz de Souza Gomes",
+    "numero_turmas": 11,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0315",
+    "nome": "Qualidade de Software 1",
+    "professores": [
+      "Cristiane Soares Ramos"
+    ],
+    "professor": "Cristiane Soares Ramos",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0309",
+    "nome": "Sistemas Operacionais Embarcados",
+    "professores": [
+      "Diogo Caetano Garcia"
+    ],
+    "professor": "Diogo Caetano Garcia",
+    "numero_turmas": 1,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0039",
+    "nome": "Mecânica de Estruturas Aeroespaciais",
+    "professores": [
+      "Artem Andrianov"
+    ],
+    "professor": "Artem Andrianov",
+    "numero_turmas": 1,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FCTE0014",
+    "nome": "Dinâmica dos Fluidos Computacional Aplicada",
+    "professores": [
+      "Rafael Castilho Faria Mendes"
+    ],
+    "professor": "Rafael Castilho Faria Mendes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0102",
+    "nome": "Sinais e Sistemas para Engenharia",
+    "professores": [
+      "Luis Filomeno de Jesus Fernandes",
+      "Luciano Emidio Neves da Fonseca",
+      "Euler de Vilhena Garcia"
+    ],
+    "professor": "Luis Filomeno de Jesus Fernandes; Luciano Emidio Neves da Fonseca; Euler de Vilhena Garcia",
+    "numero_turmas": 3,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FCTE0005",
+    "nome": "Algoritmos em Grafos",
+    "professores": [
+      "Edson Alves da Costa Junior"
+    ],
+    "professor": "Edson Alves da Costa Junior",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0067",
+    "nome": "Teoria de Circuitos Eletrônicos 1",
+    "professores": [
+      "Luciano Emidio Neves da Fonseca",
+      "Luis Filomeno de Jesus Fernandes"
+    ],
+    "professor": "Luciano Emidio Neves da Fonseca; Luis Filomeno de Jesus Fernandes",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0226",
+    "nome": "Eletrônica Veicular",
+    "professores": [
+      "Evandro Leonardo Silva Teixeira"
+    ],
+    "professor": "Evandro Leonardo Silva Teixeira",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0191",
+    "nome": "Materiais Compostos e Plásticos",
+    "professores": [
+      "Sandra Maria da Luz"
+    ],
+    "professor": "Sandra Maria da Luz",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0090",
+    "nome": "Ondulatória e Física Térmica para Engenharia",
+    "professores": [
+      "Eberth de Almeida Correa"
+    ],
+    "professor": "Eberth de Almeida Correa",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "Projeto Integrador de Engenharia 2",
+    "professores": [
+      "Sandro Augusto Pavlik Haddad",
+      "Rhander Viana",
+      "Evandro Leonardo Silva Teixeira",
+      "Rafael Castilho Faria Mendes",
+      "Alex Reis",
+      "Ricardo Matos Chaim"
+    ],
+    "professor": "Sandro Augusto Pavlik Haddad; Rhander Viana; Evandro Leonardo Silva Teixeira; Rafael Castilho Faria Mendes; Alex Reis; Ricardo Matos Chaim",
+    "numero_turmas": 5,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FCTE0018",
+    "nome": "Tecnologias de Fabricação 2",
+    "professores": [
+      "Edison Gustavo Cueva Galarraga"
+    ],
+    "professor": "Edison Gustavo Cueva Galarraga",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0124",
+    "nome": "Projeto de Algoritmos",
+    "professores": [
+      "Mauricio Serrano"
+    ],
+    "professor": "Mauricio Serrano",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0066",
+    "nome": "Fundamentos de Variável Complexa para Engenharia",
+    "professores": [
+      "Vinicius de Carvalho Rispoli"
+    ],
+    "professor": "Vinicius de Carvalho Rispoli",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0208",
+    "nome": "Arquitetura e Desenho de Software",
+    "professores": [
+      "Milene Serrano"
+    ],
+    "professor": "Milene Serrano",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0037",
+    "nome": "Tópicos Especiais em Engenharia Aeroespacial",
+    "professores": [
+      "Diogo de Oliveira Costa",
+      "Thiago Felippe Kurudez Cordeiro"
+    ],
+    "professor": "Diogo de Oliveira Costa; Thiago Felippe Kurudez Cordeiro",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0283",
+    "nome": "Mecânica dos Materiais Compósitos",
+    "professores": [
+      "Artem Andrianov"
+    ],
+    "professor": "Artem Andrianov",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0121",
+    "nome": "Tópicos Especiais 4 em Engenharia Aeroespacial",
+    "professores": [
+      "Polliana Candida Oliveira Martins"
+    ],
+    "professor": "Polliana Candida Oliveira Martins",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0188",
+    "nome": "Métodos Experimentais para Engenharia",
+    "professores": [
+      "Rodrigo Arbey Munoz Meneses"
+    ],
+    "professor": "Rodrigo Arbey Munoz Meneses",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0134",
+    "nome": "Tópicos Especiais de Engenharia de Software",
+    "professores": [
+      "Isaque Alves de Lima",
+      "Guilherme Daniel Fernandes da Silva",
+      "Lindomar Bomfim de Carvalho de Jesus"
+    ],
+    "professor": "Isaque Alves de Lima; Guilherme Daniel Fernandes da Silva; Lindomar Bomfim de Carvalho de Jesus",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0074",
+    "nome": "Teoria de Eletrônica Digital 2",
+    "professores": [
+      "Daniel Mauricio Munoz Arboleda"
+    ],
+    "professor": "Daniel Mauricio Munoz Arboleda",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "Matemática Discreta 1",
+    "professores": [
+      "Andres Felipe Gonzalez Barragan",
+      "Marcus Vinicius Teixeira Borba"
+    ],
+    "professor": "Andres Felipe Gonzalez Barragan; Marcus Vinicius Teixeira Borba",
+    "numero_turmas": 4,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0023",
+    "nome": "Dinâmica dos Mecanismos",
+    "professores": [
+      "Rita de Cassia Silva"
+    ],
+    "professor": "Rita de Cassia Silva",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0177",
+    "nome": "Análise Instrumental de Combustíveis",
+    "professores": [
+      "Maria Del Pilar Hidalgo Falla"
+    ],
+    "professor": "Maria Del Pilar Hidalgo Falla",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0104",
+    "nome": "Química Orgânica Aplicada à Engenharia",
+    "professores": [
+      "Juliana Petrocchi Rodrigues"
+    ],
+    "professor": "Juliana Petrocchi Rodrigues",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0274",
+    "nome": "Produtividade e Profissionalismo em Engenharia de Software",
+    "professores": [
+      "Wander Cleber Maria Pereira da Silva"
+    ],
+    "professor": "Wander Cleber Maria Pereira da Silva",
+    "numero_turmas": 1,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0173",
+    "nome": "Interação Humano Computador",
+    "professores": [
+      "Andre Barros de Sales",
+      "Rejane Maria da Costa Figueiredo"
+    ],
+    "professor": "Andre Barros de Sales; Rejane Maria da Costa Figueiredo",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0119",
+    "nome": "Teoria de Eletromagnetismo",
+    "professores": [
+      "Daniel Costa Araujo"
+    ],
+    "professor": "Daniel Costa Araujo",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0312",
+    "nome": "Métodos de Desenvolvimento de Software",
+    "professores": [
+      "Carla Silva Rocha Aguiar",
+      "Ricardo Ajax Dias Kosloski"
+    ],
+    "professor": "Carla Silva Rocha Aguiar; Ricardo Ajax Dias Kosloski",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0229",
+    "nome": "Análise Estrutural Método dos Elementos Finitos",
+    "professores": [
+      "Maura Angelica Milfont Shzu"
+    ],
+    "professor": "Maura Angelica Milfont Shzu",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0228",
+    "nome": "Projeto de Sistemas Automotivos",
+    "professores": [
+      "Carla Tatiana Mota Anflor"
+    ],
+    "professor": "Carla Tatiana Mota Anflor",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0380",
+    "nome": "Processos Estocásticos",
+    "professores": [
+      "Cristiano Jacques Miosso Rodrigues Mendes"
+    ],
+    "professor": "Cristiano Jacques Miosso Rodrigues Mendes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0317",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "professores": [
+      "Renato Coral Sampaio",
+      "Thiago Luiz de Souza Gomes"
+    ],
+    "professor": "Renato Coral Sampaio; Thiago Luiz de Souza Gomes",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0068",
+    "nome": "Teoria de Circuitos Eletrônicos 2",
+    "professores": [
+      "Gilmar Silva Beserra"
+    ],
+    "professor": "Gilmar Silva Beserra",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0302",
+    "nome": "Engenharia e Ambiente",
+    "professores": [
+      "Maria Vitoria Duarte Ferrari",
+      "Augusto Cesar de Mendonca Brasil",
+      "Juliana Dalboni Rocha"
+    ],
+    "professor": "Maria Vitoria Duarte Ferrari; Augusto Cesar de Mendonca Brasil; Juliana Dalboni Rocha",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0062",
+    "nome": "Projeto de Sistemas de Observação da Terra",
+    "professores": [
+      "Ronne Toledo"
+    ],
+    "professor": "Ronne Toledo",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0308",
+    "nome": "Eletrônica Embarcada",
+    "professores": [
+      "Guillermo Alvarez Bestard"
+    ],
+    "professor": "Guillermo Alvarez Bestard",
+    "numero_turmas": 1,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0281",
+    "nome": "Sistemas de Propulsão Liquida",
+    "professores": [
+      "Artur Elias de Morais Bertoldi"
+    ],
+    "professor": "Artur Elias de Morais Bertoldi",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0117",
+    "nome": "Fundamentos de Energia Nuclear",
+    "professores": [
+      "Tercio Brum"
+    ],
+    "professor": "Tercio Brum",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0307",
+    "nome": "Gestão da Produção e Qualidade",
+    "professores": [
+      "Mario de Oliveira Andrade",
+      "Rejane Maria da Costa Figueiredo"
+    ],
+    "professor": "Mario de Oliveira Andrade; Rejane Maria da Costa Figueiredo",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0164",
+    "nome": "Humanidades e Cidadania",
+    "professores": [
+      "Sandra Maria Faleiros Lima",
+      "Vanessa Maria de Castro"
+    ],
+    "professor": "Sandra Maria Faleiros Lima; Vanessa Maria de Castro",
+    "numero_turmas": 4,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0267",
+    "nome": "Projeto de Estruturas de Veiculos",
+    "professores": [
+      "Henrique Gomes de Moura"
+    ],
+    "professor": "Henrique Gomes de Moura",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0244",
+    "nome": "Programação para Sistemas Paralelos e Distribuídos",
+    "professores": [
+      "Daniel Sundfeld Lima"
+    ],
+    "professor": "Daniel Sundfeld Lima",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0252",
+    "nome": "Sistemas Hidroelétricos",
+    "professores": [
+      "Rudi Henri Van Els",
+      "Luciano Goncalves Noleto"
+    ],
+    "professor": "Rudi Henri Van Els; Luciano Goncalves Noleto",
+    "numero_turmas": 1,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0194",
+    "nome": "Arquitetura de Motores de Combustão Interna",
+    "professores": [
+      "Fabio Cordeiro de Lisboa"
+    ],
+    "professor": "Fabio Cordeiro de Lisboa",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0160",
+    "nome": "Métodos Numéricos para Engenharia",
+    "professores": [
+      "Lui Txai Calvoso Habl",
+      "Rodrigo Andres Miranda Cerda",
+      "Manuel Nascimento Dias Barcelos Junior"
+    ],
+    "professor": "Lui Txai Calvoso Habl; Rodrigo Andres Miranda Cerda; Manuel Nascimento Dias Barcelos Junior",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0093",
+    "nome": "Princípios de Controle",
+    "professores": [
+      "Roberto de Souza Baptista",
+      "Thiago Felippe Kurudez Cordeiro"
+    ],
+    "professor": "Roberto de Souza Baptista; Thiago Felippe Kurudez Cordeiro",
+    "numero_turmas": 2,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0043",
+    "nome": "Dinâmica dos Gases para Sistemas Aeroespaciais",
+    "professores": [
+      "Olexiy Shynkarenko"
+    ],
+    "professor": "Olexiy Shynkarenko",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0175",
+    "nome": "Engenharia de Petróleo e Gás",
+    "professores": [
+      "Felipe Chagas Storti"
+    ],
+    "professor": "Felipe Chagas Storti",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0089",
+    "nome": "Laboratório de Sistemas de Conversão de Energia",
+    "professores": [
+      "Alex Reis"
+    ],
+    "professor": "Alex Reis",
+    "numero_turmas": 1,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0170",
+    "nome": "Fundamentos de Sistemas Operacionais",
+    "professores": [
+      "Daniel Sundfeld Lima"
+    ],
+    "professor": "Daniel Sundfeld Lima",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0232",
+    "nome": "Integração e Testes",
+    "professores": [
+      "Henrique Gomes de Moura"
+    ],
+    "professor": "Henrique Gomes de Moura",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0099",
+    "nome": "Teoria de Circuitos Eletrônicos 3",
+    "professores": [
+      "Wellington Avelino do Amaral"
+    ],
+    "professor": "Wellington Avelino do Amaral",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0179",
+    "nome": "Mecanica dos Sólidos 2 para Engenharia",
+    "professores": [
+      "Glauceny Cirne de Medeiros"
+    ],
+    "professor": "Glauceny Cirne de Medeiros",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0108",
+    "nome": "Matemática Discreta 2",
+    "professores": [
+      "Marcus Vinicius Teixeira Borba",
+      "Lindomar Bomfim de Carvalho de Jesus"
+    ],
+    "professor": "Marcus Vinicius Teixeira Borba; Lindomar Bomfim de Carvalho de Jesus",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0155",
+    "nome": "Introdução ao Design e Concepção de Veículos",
+    "professores": [
+      "Eneida Gonzalez Valdes"
+    ],
+    "professor": "Eneida Gonzalez Valdes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0152",
+    "nome": "Ergonomia do Produto",
+    "professores": [
+      "Mateus Rodrigues Miranda"
+    ],
+    "professor": "Mateus Rodrigues Miranda",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0219",
+    "nome": "Processamento de Sinais",
+    "professores": [
+      "Cristiano Jacques Miosso Rodrigues Mendes"
+    ],
+    "professor": "Cristiano Jacques Miosso Rodrigues Mendes",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0132",
+    "nome": "Instrumentação Eletrônica para Engenharia",
+    "professores": [
+      "Claudia Patricia Ochoa Diaz"
+    ],
+    "professor": "Claudia Patricia Ochoa Diaz",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0072",
+    "nome": "Prática de Eletrônica Digital 2",
+    "professores": [
+      "Daniel Mauricio Munoz Arboleda"
+    ],
+    "professor": "Daniel Mauricio Munoz Arboleda",
+    "numero_turmas": 2,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0098",
+    "nome": "Prática de Circuitos Eletrônicos 3",
+    "professores": [
+      "Diogo de Oliveira Costa"
+    ],
+    "professor": "Diogo de Oliveira Costa",
+    "numero_turmas": 1,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "Laboratório de Materiais de Construção",
+    "professores": [
+      "Emmanuel Pacheco Rocha Lima",
+      "Rodrigo Arbey Munoz Meneses"
+    ],
+    "professor": "Emmanuel Pacheco Rocha Lima; Rodrigo Arbey Munoz Meneses",
+    "numero_turmas": 6,
+    "carga_horaria": 15,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0047",
+    "nome": "Processos Petroquímicos",
+    "professores": [
+      "Andreia Alves Costa Lindinger"
+    ],
+    "professor": "Andreia Alves Costa Lindinger",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0299",
+    "nome": "Sistemas Bioinspirados Aplicados a Engenharia",
+    "professores": [
+      "Daniel Mauricio Munoz Arboleda"
+    ],
+    "professor": "Daniel Mauricio Munoz Arboleda",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "Projeto Integrador de Engenharia 1",
+    "professores": [
+      "Diogo Caetano Garcia",
+      "Juliana Petrocchi Rodrigues",
+      "Lui Txai Calvoso Habl",
+      "Bruno Luiz Pereira",
+      "Hilmer Rodrigues Neri"
+    ],
+    "professor": "Diogo Caetano Garcia; Juliana Petrocchi Rodrigues; Lui Txai Calvoso Habl; Bruno Luiz Pereira; Hilmer Rodrigues Neri",
+    "numero_turmas": 5,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0313",
+    "nome": "Requisitos de Software",
+    "professores": [
+      "George Marsicano Correa"
+    ],
+    "professor": "George Marsicano Correa",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0076",
+    "nome": "Equipamentos Termofluidos Automotivos",
+    "professores": [
+      "Alessandro Borges de Sousa Oliveira",
+      "Fabio Alfaia da Cunha"
+    ],
+    "professor": "Alessandro Borges de Sousa Oliveira; Fabio Alfaia da Cunha",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0284",
+    "nome": "Engenharia de Manutenção",
+    "professores": [
+      "Fabio Cordeiro de Lisboa"
+    ],
+    "professor": "Fabio Cordeiro de Lisboa",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0242",
+    "nome": "Técnicas de Programação em Plataformas Emergentes",
+    "professores": [
+      "Andre Luiz Peron Martins Lanna",
+      "Thiago Luiz de Souza Gomes"
+    ],
+    "professor": "Andre Luiz Peron Martins Lanna; Thiago Luiz de Souza Gomes",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0230",
+    "nome": "Dinâmica de Veículos",
+    "professores": [
+      "Suzana Moreira Avila"
+    ],
+    "professor": "Suzana Moreira Avila",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0025",
+    "nome": "Sistemas de Energia Solar e Eólica",
+    "professores": [
+      "Jorge Andres Cormane Angarita"
+    ],
+    "professor": "Jorge Andres Cormane Angarita",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0048",
+    "nome": "Mecânica do Voo Espacial",
+    "professores": [
+      "William Reis Silva"
+    ],
+    "professor": "William Reis Silva",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0254",
+    "nome": "Ciências Aeroespaciais",
+    "professores": [
+      "Gabriela Cunha Possa"
+    ],
+    "professor": "Gabriela Cunha Possa",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0078",
+    "nome": "Teoria de Materiais de Construção",
+    "professores": [
+      "Emmanuel Pacheco Rocha Lima",
+      "Rodrigo Arbey Munoz Meneses"
+    ],
+    "professor": "Emmanuel Pacheco Rocha Lima; Rodrigo Arbey Munoz Meneses",
+    "numero_turmas": 2,
+    "carga_horaria": 45,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FCTE0009",
+    "nome": "Estimação Ótima de Sistemas Dinâmicos Aeroespaciais",
+    "professores": [
+      "William Reis Silva"
+    ],
+    "professor": "William Reis Silva",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0163",
+    "nome": "Introdução à Engenharia",
+    "professores": [
+      "Rafael Rodrigues da Silva",
+      "Ricardo Ramos Fragelli"
+    ],
+    "professor": "Rafael Rodrigues da Silva; Ricardo Ramos Fragelli",
+    "numero_turmas": 3,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0190",
+    "nome": "Projeto de Elementos Automotivos",
+    "professores": [
+      "Rita de Cassia Silva",
+      "Alessandro Borges de Sousa Oliveira"
+    ],
+    "professor": "Rita de Cassia Silva; Alessandro Borges de Sousa Oliveira",
+    "numero_turmas": 1,
+    "carga_horaria": 90,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0261",
+    "nome": "Tópicos Especiais em Eletronica",
+    "professores": [
+      "Fabiano Araujo Soares",
+      "Guillermo Alvarez Bestard",
+      "Henrique Gomes de Moura",
+      "Marcus Vinicius Chaffim Costa"
+    ],
+    "professor": "Fabiano Araujo Soares; Guillermo Alvarez Bestard; Henrique Gomes de Moura; Marcus Vinicius Chaffim Costa",
+    "numero_turmas": 4,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0311",
+    "nome": "Projeto Extensionista em Engenharia Eletrônica 2",
+    "professores": [
+      "Euler de Vilhena Garcia"
+    ],
+    "professor": "Euler de Vilhena Garcia",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0109",
+    "nome": "Fundamentos de Sistemas Embarcados",
+    "professores": [
+      "Renato Coral Sampaio",
+      "Daniel Valle de Lima"
+    ],
+    "professor": "Renato Coral Sampaio; Daniel Valle de Lima",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FCTE0017",
+    "nome": "Tecnologias de Fabricação 1",
+    "professores": [
+      "Rhander Viana"
+    ],
+    "professor": "Rhander Viana",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0314",
+    "nome": "Testes de Software",
+    "professores": [
+      "Elaine Venson"
+    ],
+    "professor": "Elaine Venson",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0214",
+    "nome": "Tópicos Especiais em Engenharia Automotiva",
+    "professores": [
+      "Sandra Maria da Luz",
+      "Rhander Viana",
+      "Bruno Luiz Pereira"
+    ],
+    "professor": "Sandra Maria da Luz; Rhander Viana; Bruno Luiz Pereira",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0070",
+    "nome": "Prática de Circuitos Eletrônicos 2",
+    "professores": [
+      "Diogo de Oliveira Costa"
+    ],
+    "professor": "Diogo de Oliveira Costa",
+    "numero_turmas": 1,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0262",
+    "nome": "Transmissão e Distribuição de Energia Elétrica",
+    "professores": [
+      "Loana Nunes Velasco"
+    ],
+    "professor": "Loana Nunes Velasco",
+    "numero_turmas": 1,
+    "carga_horaria": 75,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0146",
+    "nome": "Estruturas de Dados 1",
+    "professores": [
+      "Fabricio Ataides Braz",
+      "Nilton Correia da Silva"
+    ],
+    "professor": "Fabricio Ataides Braz; Nilton Correia da Silva",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0024",
+    "nome": "Modelagem e Simulação de Sistemas Energéticos",
+    "professores": [
+      "Rudi Henri Van Els"
+    ],
+    "professor": "Rudi Henri Van Els",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0045",
+    "nome": "Mecânica do Vôo",
+    "professores": [
+      "Polliana Candida Oliveira Martins"
+    ],
+    "professor": "Polliana Candida Oliveira Martins",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0316",
+    "nome": "Engenharia de Produto de Software",
+    "professores": [
+      "Ricardo Matos Chaim",
+      "Hilmer Rodrigues Neri"
+    ],
+    "professor": "Ricardo Matos Chaim; Hilmer Rodrigues Neri",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0118",
+    "nome": "Sistemas de Informação Geográfica para Engenharia",
+    "professores": [
+      "Juliana Dalboni Rocha"
+    ],
+    "professor": "Juliana Dalboni Rocha",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0086",
+    "nome": "Teoria de Eletricidade Aplicada",
+    "professores": [
+      "Jorge Andres Cormane Angarita",
+      "Flavio Henrique Justiniano Ribeiro da Silva"
+    ],
+    "professor": "Jorge Andres Cormane Angarita; Flavio Henrique Justiniano Ribeiro da Silva",
+    "numero_turmas": 2,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0120",
+    "nome": "Prática de Eletromagnetismo",
+    "professores": [
+      "Gerardo Antonio Idrobo Pizo"
+    ],
+    "professor": "Gerardo Antonio Idrobo Pizo",
+    "numero_turmas": 2,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0100",
+    "nome": "Prática de Física dos Dispositivos Eletrônicos",
+    "professores": [
+      "Gerardo Antonio Idrobo Pizo"
+    ],
+    "professor": "Gerardo Antonio Idrobo Pizo",
+    "numero_turmas": 2,
+    "carga_horaria": 30,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0157",
+    "nome": "Probabilidade e Estatística Aplicado a Engenharia",
+    "professores": [
+      "Marilia Miranda Forte Gomes",
+      "Rodrigo Andres Miranda Cerda"
+    ],
+    "professor": "Marilia Miranda Forte Gomes; Rodrigo Andres Miranda Cerda",
+    "numero_turmas": 3,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  },
+  {
+    "codigo": "FGA0141",
+    "nome": "Gestão Ambiental No Setor Energético",
+    "professores": [
+      "Maria Vitoria Duarte Ferrari"
+    ],
+    "professor": "Maria Vitoria Duarte Ferrari",
+    "numero_turmas": 1,
+    "carga_horaria": 60,
+    "campus": "UnB Gama (FCTE)",
+    "ano_periodo_referencia": "2026.2",
+    "tipo": "Não classificado (a Consulta de Turmas do SIGAA não informa se a disciplina é obrigatória/optativa)",
+    "fonte_disciplina": "real_sigaa_turmas_2026_2",
+    "codigo_confirmado": true,
+    "professor_fonte": "real_sigaa_turmas_2026_2"
+  }
+]
