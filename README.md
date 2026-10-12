@@ -1,6 +1,6 @@
-# G13_Busca_EDA2-2026.2
+# G13_Ordenacao_EDA2-2026.2
 
-## Busca Matérias UnB Gama
+## Busca e ordenação de  Matérias UnB Gama
 
 Projeto desenvolvido para a disciplina de **Estruturas de Dados e Algoritmos 2 (EDA2)**.
 
