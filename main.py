@@ -1,5 +1,6 @@
 from src.demonstracao_insertion import demonstrar_insertion_sort
 from src.insertion_sort import insertion_sort
+from src.demonstracao_quick import demonstrar_quick_sort
 from src.carregaDados import carregar_disciplinas
 from src.busca_binaria import busca_binaria
 from src.busca_por_nome import construir_indice_nome, busca_por_nome
@@ -30,6 +31,7 @@ def main():
         print("2 - Buscar por nome (tabela hash)")
         print("3 - Buscar por professor (tabela hash)")
         print("4 - Demonstrar Insertion Sort")
+        print("5 - Demonstrar QuickSort")
         print("0 - Sair")
         opcao = input("Opcao: ").strip()
 
@@ -45,6 +47,8 @@ def main():
             imprimir_resultados(busca_por_professor(indice_professor, professor))
         elif opcao == "4":
             demonstrar_insertion_sort(disciplinas)
+        elif opcao == "5":
+            demonstrar_quick_sort(disciplinas)
         elif opcao == "0":
             break
         else:
