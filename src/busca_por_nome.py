@@ -4,7 +4,7 @@ from src.normaliza import normalizar
 def construir_indice_nome(disciplinas):
     indice = TabelaHash(capacidade_inicial=max(16, len(disciplinas) * 4))
     for d in disciplinas:
-        for palavra in normalizar(d["nome"]).split():
+        for palavra in dict.fromkeys(normalizar(d["nome"]).split()):
             existentes = indice.buscar(palavra)
             if existentes is None:
                 indice.inserir(palavra, [d])
