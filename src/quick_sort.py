@@ -1,8 +1,5 @@
 def quick_sort(disciplinas, ao_passo=None):
-    """Ordena uma copia por codigo usando particao de Lomuto.
 
-    Nao modifica os registros. Codigos iguais podem trocar de ordem.
-    """
     lista = list(disciplinas)
 
     def registrar(tipo, **detalhes):
@@ -31,7 +28,7 @@ def quick_sort(disciplinas, ao_passo=None):
         return i
 
     def ordenar(inicio, fim):
-        # Recorre apenas no menor lado para limitar a pilha a O(log n).
+        
         while inicio < fim:
             posicao = particionar(inicio, fim)
             if posicao - inicio < fim - posicao:

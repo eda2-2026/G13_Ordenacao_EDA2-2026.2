@@ -1,9 +1,5 @@
 def insertion_sort(disciplinas, ao_passo=None):
-    """Ordena uma copia por codigo; ao_passo recebe os eventos da demonstracao.
 
-    A copia e superficial: os registros das disciplinas nao sao modificados.
-    Codigos iguais preservam sua ordem original (algoritmo estavel).
-    """
     lista = list(disciplinas)
 
     def registrar(tipo, **detalhes):
